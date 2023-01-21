@@ -38,7 +38,7 @@ public class ManavKasa {
 
         double tutar = (a*akg) + (e*ekg) + (d*dkg) + (m*mkg) + (p*pkg);
 
-        System.out.println("Toplam Tutar :" + tutar + " TL");
+        System.out.println("Toplam Tutar : " + tutar + " TL");
 
     }
 }
